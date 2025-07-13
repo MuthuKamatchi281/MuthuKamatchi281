@@ -1,3 +1,10 @@
+## 👋 Hi, I'm Muthu Kamatchi R
+
+A passionate fresher developer with skills in software development. Always eager to learn, build, and contribute.
+
+📫 Reach me at: muthuofficial281@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/muthu2005)
+
 ## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
